@@ -21,22 +21,28 @@ onsets = read_clusters('onsets.txt')
 nucleii = read_clusters('nucleii.txt')
 codas = read_clusters('codas.txt')
 
-values = []
+absent = []
+present = []
 for onset, onset_count in onsets:
   for nucleus, nucleus_count in nucleii:
     for coda, coda_count in codas:
       vague_likelihood = onset_count * nucleus_count * coda_count
       syllable = ' '.join(onset + nucleus + coda)
 
-      if syllable not in pronciations:
-        values.append((-vague_likelihood, len(syllable), syllable,
-                       '%s   %s %s' % (
-                         str(vague_likelihood).rjust(10),
-                         syllable.ljust(20),
-                         pronciations.get(syllable, ''))))
+      l = present if syllable in pronciations else absent
+      l.append((-vague_likelihood, len(syllable), syllable,
+                '%s   %s %s\n' % (
+                  str(vague_likelihood).rjust(10),
+                  syllable.ljust(20),
+                  pronciations.get(syllable, ''))))
 
-for _, _, _, x in sorted(values):
-  print(x)
+with open('absent.txt', 'w') as outf:
+  for _, _, _, x in sorted(absent):
+    outf.write(x)      
+      
+with open('present.txt', 'w') as outf:
+  for _, _, _, x in sorted(present):
+    outf.write(x)
       
       
       
