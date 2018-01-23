@@ -185,7 +185,6 @@
 1 r k s
 1 r l z
 1 r m
-1 r n s
 1 r n t
 1 r n z
 1 r s k
