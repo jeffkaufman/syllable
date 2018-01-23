@@ -78,4 +78,3 @@
 11 sh y
 9 hh y
 4 hh w
-1 f r w

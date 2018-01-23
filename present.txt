@@ -9201,7 +9201,6 @@
    1252920   p r oh p s t         PROPST
    1229744   k er l n z           KOLN'S
    1229184   s k r aw n jh d      SCROUNGED
-   1220560   f r w aa             FROID
    1217900   ae l b z             ALBS
    1217900   ae ng s t            ANGST
    1202306   b ah l b z           BULBS
