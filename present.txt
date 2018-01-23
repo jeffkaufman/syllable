@@ -9193,7 +9193,6 @@
    1418640   w uh l f             WOLF
    1413828   k y ua r z           CURE'S
    1413828   p y ua r z           PUREES
-   1405072   l ae ng s t          LANGST
    1402704   f l eh n z d         FLENSED
    1360875   ey t th              EIGHTH
    1360875   ey t th s            EIGHTHS
@@ -9202,7 +9201,6 @@
    1229744   k er l n z           KOLN'S
    1229184   s k r aw n jh d      SCROUNGED
    1217900   ae l b z             ALBS
-   1217900   ae ng s t            ANGST
    1202306   b ah l b z           BULBS
    1189118   r ah m p f           RUMPH
    1189118   r ah m p f s         RUMPHS
@@ -9212,14 +9210,12 @@
    1086912   t w eh l v d         TWELVED
    1079080   k oh n s t s         CONSTS
    1071200   dh ea r d            THERED
-   1050644   m ah ng s t          MONGST
    1012284   sh m ao l t s        SCHMALZ
    1001364   jh ih ng k s t       JINXED
     979200   k w eh l ch t        QUELCHED
     945760   w uh l f s           WOOLFS
     934150   hh ah m p f          HUMPH
     934150   hh ah m p f s        HUMPHS
-    876652   m ih d s t s         MIDSTS
     872984   s ih k s th          SIXTH
     872984   s ih k s th s        SIXTHS
     871320   s k y ua r           SKEWER
@@ -9233,9 +9229,7 @@
     661440   p y ua r d           PUREED
     660960   s k w eh l ch        SQUELCH
     610375   uh m f s             OOMPHS
-    608950   ae ng s t s          ANGSTS
     601153   b ah l b d           BULBED
-    591008   w ow l d s           WOULDS
     589968   b r eh d th          BREADTH
     589968   b r eh d th s        BREADTHS
     586866   t r ah m p f         TRUMPH

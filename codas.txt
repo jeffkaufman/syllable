@@ -106,7 +106,6 @@
 7 r d z
 7 r t
 7 r t s
-6 k z
 6 l th
 6 l th s
 6 n z d
@@ -138,10 +137,8 @@
 2 d th s
 2 dh d z
 2 f s k
-2 g s
 2 k d
 2 l b z
-2 l d s
 2 l n d
 2 m f t
 2 m p f
@@ -150,17 +147,11 @@
 2 n s t s
 2 n zh
 2 ng k s t
-2 ng s
-2 ng s t
 2 t s k
-1 b s
-1 ch s
-1 d s t s
+1 d z t s
 1 d z d
-1 f t z
 1 f th
 1 f th s
-1 f z
 1 k s th
 1 k s th s
 1 l b d
@@ -173,24 +164,19 @@
 1 m n d
 1 m p f t
 1 m p s t
-1 m s
 1 m s k
 1 m s t
 1 m t
 1 m th
 1 m th s
-1 n d s
 1 n k t
 1 n sh t
-1 ng k z
-1 ng s t s
+1 ng k s t s
 1 ng t s
 1 ng th t
 1 p th
 1 p th s
-1 p z
 1 r b
-1 r b s
 1 r ch
 1 r ch t
 1 r g
