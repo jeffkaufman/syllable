@@ -1,0 +1,212 @@
+1520 (null)
+719 n
+699 z
+668 d
+535 t
+522 l
+471 n z
+451 t s
+425 k
+416 m
+403 s
+399 l z
+391 d z
+367 n d
+362 k s
+297 m z
+277 s t
+274 r
+272 l d
+248 p
+224 k t
+212 ng
+203 p s
+193 f
+188 n t
+176 v
+171 r z
+168 p t
+162 m d
+161 g
+153 n t s
+141 s t s
+139 b
+133 f s
+132 sh
+128 ch
+127 v z
+126 n d z
+121 g z
+118 th
+115 b z
+114 z d
+113 jh
+105 ng z
+101 n s
+100 f t
+88 ng k
+83 ch t
+81 jh d
+80 r d
+78 m p
+76 sh t
+75 v d
+74 l t
+70 ng k s
+68 th s
+67 g d
+63 b d
+60 m p s
+52 l t s
+52 n s t
+51 ng k t
+49 m p t
+48 zh
+46 s k
+45 n ch
+42 l d z
+41 ng d
+39 k t s
+38 n jh
+35 n ch t
+34 f t s
+33 dh
+32 n jh d
+32 s k s
+28 k s t
+27 dh z
+21 dh d
+21 l k
+20 th t
+18 s k t
+15 l f
+15 n th
+14 p t s
+13 l k s
+13 l p
+13 s p
+12 l s
+12 l v
+12 l v z
+11 l m
+11 n th s
+11 s p s
+10 l f s
+10 l k t
+10 s p t
+9 l ch
+9 l m z
+9 zh d
+8 l p s
+8 l p t
+8 l v d
+7 m f
+7 n k
+7 ng th
+7 r d z
+7 r t
+7 r t s
+6 k z
+6 l th
+6 l th s
+6 n z d
+6 p s t
+5 l b
+5 l ch t
+5 l f t
+5 l jh
+5 l jh d
+5 l n
+5 l s t
+5 m f s
+5 ng th s
+4 d s t
+4 k s t s
+4 l m d
+4 l n z
+4 l sh
+4 m p t s
+4 n s k
+4 n sh
+4 ng k t s
+4 z d z
+3 d s
+3 n k s
+3 t th
+3 t th s
+2 d th
+2 d th s
+2 dh d z
+2 f s k
+2 g s
+2 k d
+2 l b z
+2 l d s
+2 l n d
+2 m f t
+2 m p f
+2 m p f s
+2 n s k s
+2 n s t s
+2 n zh
+2 ng k s t
+2 ng s
+2 ng s t
+2 t s k
+1 b s
+1 ch s
+1 d s t s
+1 d z d
+1 f t z
+1 f th
+1 f th s
+1 f z
+1 k s th
+1 k s th s
+1 l b d
+1 l f t s
+1 l f th
+1 l f th s
+1 l k t s
+1 l p t s
+1 l sh t
+1 m n d
+1 m p f t
+1 m p s t
+1 m s
+1 m s k
+1 m s t
+1 m t
+1 m th
+1 m th s
+1 n d s
+1 n k t
+1 n sh t
+1 ng k z
+1 ng s t s
+1 ng t s
+1 ng th t
+1 p th
+1 p th s
+1 p z
+1 r b
+1 r b s
+1 r ch
+1 r ch t
+1 r g
+1 r g z
+1 r k
+1 r k s
+1 r l z
+1 r m
+1 r n s
+1 r n t
+1 r n z
+1 r s k
+1 r th
+1 r th s
+1 s d
+1 s th
+1 sh d
+1 t s k s
+1 t s t

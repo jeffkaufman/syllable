@@ -1,0 +1,81 @@
+548 l
+547 b
+541 r
+509 k
+484 t
+478 m
+476 s
+475 (null)
+468 p
+455 d
+425 hh
+410 n
+399 f
+368 w
+340 s t
+332 g
+282 v
+277 ch
+273 jh
+269 sh
+267 t r
+259 k r
+250 s k
+243 k l
+241 b r
+228 s p
+225 z
+214 d r
+214 g r
+203 s l
+201 b l
+197 p r
+191 f l
+188 s t r
+169 p l
+160 k w
+149 f r
+149 y
+146 s w
+145 th
+120 s n
+118 g l
+111 t w
+108 s m
+97 s k r
+82 th r
+77 d w
+71 n y
+65 dh
+63 s p r
+62 sh r
+60 s k w
+58 s p l
+55 zh
+50 d y
+47 g w
+45 z l
+41 s r
+40 t y
+39 k y
+39 p y
+31 th w
+30 v l
+29 f y
+27 s y
+27 sh m
+25 z w
+23 b y
+22 g y
+20 s k l
+20 sh n
+19 s t y
+19 v y
+17 sh w
+17 z y
+15 s k y
+11 s p y
+11 sh y
+9 hh y
+4 hh w
+1 f r w
